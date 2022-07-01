@@ -1,3 +1,6 @@
+
+![logo_eeng](https://user-images.githubusercontent.com/98285918/176897975-e0e47a6d-6f36-4aab-9996-061e72b421ce.png)
+
 # Systematic survey of cytochrome P450s in gut bacteria
 GitHub repository to support the development of the project "Systematic survey of cytochrome P450s in gut bacteria".
 
