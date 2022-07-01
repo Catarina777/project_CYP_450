@@ -1,6 +1,7 @@
 # Systematic survey of cytochrome P450s in gut bacteria
-Repository to support the development of the project "Systematic survey of cytochrome P450s in gut bacteria"
+GitHub repository to support the development of the project "Systematic survey of cytochrome P450s in gut bacteria".
 
+# Introduction
 Cytochrome P450 (CYP) are known for being capable of doing hydroxylation of inactivated C–H bonds. Eukaryotic CYPs are
 intensively studied due to their role in drug metabolism. Prokaryotic CYPs, although less studied, they perform a wider range of chemical
 reactions. Prokaryotic CYPs have been identified in the cell’s cytosol doing oxidations and hydroxylations of compounds. However, the role
