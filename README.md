@@ -1,5 +1,4 @@
-
-![logo_eeng](https://user-images.githubusercontent.com/98285918/176897975-e0e47a6d-6f36-4aab-9996-061e72b421ce.png)
+![engium-encontra_aqui_emprego_estagio_candidatura_espontanea_talent_portugal_logo](https://user-images.githubusercontent.com/98285918/176898092-2ed51082-e2a3-4f64-974e-d78dfbbddb6a.jpg)
 
 # Systematic survey of cytochrome P450s in gut bacteria
 GitHub repository to support the development of the project "Systematic survey of cytochrome P450s in gut bacteria".
